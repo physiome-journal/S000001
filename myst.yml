@@ -1,0 +1,57 @@
+version: 1
+project:
+  title: >-
+    Bond Graph Model of Cerebral Circulation: Toward Clinically Feasible
+    Systemic Blood Flow Simulations
+  open_access: true
+  license: CC-BY-4.0
+  authors:
+    - name: Shan Su
+      orcid: 0000-0002-9369-1642
+      affiliations:
+        - Auckland Bioengineering Institute, University of Auckland, New Zealand
+    - name: Pablo J. Blanco
+      orcid: 0000-0001-8402-1092
+      affiliations:
+        - National Laboratory for Scientific Computing, Petrópolis, Brazil
+    - name: Lucas O. Müller
+      orcid: 0000-0003-1933-8995
+      affiliations:
+        - Department of Mathematics, University of Trento, Italy
+    - name: Peter J. Hunter
+      orcid: 0000-0001-9665-4145
+      affiliations:
+        - Auckland Bioengineering Institute, University of Auckland, New Zealand
+    - name: Soroush Safaei
+      orcid: 0000-0001-5734-243X
+      corresponding: true
+      email: soroush.safaei@auckland.ac.nz
+      affiliations:
+        - Auckland Bioengineering Institute, University of Auckland, New Zealand
+  subject: Original
+  doi: 10.36903/physiome.12859424
+  date: 2020/08/26
+  keywords:
+    - Circulation model
+    - bond graph
+    - 0D model
+    - CellML
+    - OpenCOR
+site:
+  projects:
+    - slug: S000001
+      path: .
+  nav: []
+  actions:
+    - title: paper
+      url: Su2020PhysiomeS000001.pdf
+      static: true
+    - title: omex
+      url: Su2020PhysiomeS000001.omex
+      static: true
+    - title: primary
+      url: https://doi.org/10.3389/fphys.2018.00148
+  domains: []
+  title: >-
+    Bond Graph Model of Cerebral Circulation: Toward Clinically Feasible
+    Systemic Blood Flow Simulations
