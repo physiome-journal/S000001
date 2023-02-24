@@ -37,6 +37,8 @@ project:
     - 0D model
     - CellML
     - OpenCOR
+  numbering:
+    heading_2: true
 site:
   projects:
     - slug: S000001
