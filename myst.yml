@@ -3,6 +3,12 @@ project:
   title: >-
     Bond Graph Model of Cerebral Circulation: Toward Clinically Feasible
     Systemic Blood Flow Simulations
+  description: >-
+    The primary paper Safaei et al. (2018) proposed an anatomically detailed
+    model of the human cerebral circulation that runs faster than real-time on a
+    desktop computer and is designed for use in clinical settings when the speed
+    of response is important.
+  thumbnail: thumbnail.png
   open_access: true
   license: CC-BY-4.0
   authors:
@@ -33,7 +39,9 @@ project:
       orcid: 0000-0001-7600-8218
       role: Editor
       affiliations:
-        - Integrative Systems Biology, Department of Biomedical Engineering, Linköping University, Linköping, Sweden
+        - >-
+          Integrative Systems Biology, Department of Biomedical Engineering,
+          Linköping University, Linköping, Sweden
     - name: Anand K. Rampadarath
       orcid: 0000-0001-8830-6212
       role: Curator
